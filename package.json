@@ -1,0 +1,14 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "Learn Testing use Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ali Syahidin",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
